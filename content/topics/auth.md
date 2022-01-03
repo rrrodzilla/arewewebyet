@@ -17,6 +17,7 @@ packages = [
   "oso",
   "otpauth",
   "oxide-auth",
+  "rusty_paseto",
   "yup-oauth2"
 ]
 
